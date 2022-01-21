@@ -1,0 +1,22 @@
+{
+	"MIS 479": [
+    {"Location": "Business 207"},
+		{"Professor": "Kumar"},
+		{"Start": "13: 00: 00"},
+		{"End": "14: 15: 00"},
+		{"Order": 1}
+	],
+	"IST 402": [
+    {"Location": "Wartik 108"},
+		{"Professor": "Ollendyke"},
+		{"Start": "12: 05: 00"},
+		{"End": "13: 20: 00"}, 
+    {"Order": 2}
+	],
+  "KINES 82": [
+    {"Location": "Online"},
+		{"Professor": "Boccumini"},
+		{"Start": "15: 05: 00"},
+		{"End": "16: 20: 00"}, 
+    {"Order": 3}
+}
