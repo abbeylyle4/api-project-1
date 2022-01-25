@@ -1,24 +1,24 @@
 [{
-	"Name": "MIS 479",
-  "Location": "Business 207",
-	"Professor": "Kumar",
-	"Start": "13: 00: 00",
-	"End": "14: 15: 00",
-	"Order": 1
+	"name": "MIS 479",
+  "location": "Business 207",
+	"professor": "Kumar",
+	"start": "13: 00: 00",
+	"end": "14: 15: 00",
+	"order": 1
 },
  {
 	"name":"IST 402",
-  "Location": "Wartik 108",
-	"Professor": "Ollendyke",
-	"Start": "12: 05: 00",
-	"End": "13: 20: 00", 
-  "Order": 2
+  "location": "Wartik 108",
+	"professor": "Ollendyke",
+	"start": "12: 05: 00",
+	"end": "13: 20: 00", 
+  "order": 2
  },
  {
   "name":"KINES 82",
-  "Location": "Online",
-	"Professor": "Boccumini",
-	"Start": "15: 05: 00",
-	"End": "16: 20: 00", 
-  "Order": 3
+  "location": "Online",
+	"professor": "Boccumini",
+	"start": "15: 05: 00",
+	"end": "16: 20: 00", 
+  "order": 3
 }]
